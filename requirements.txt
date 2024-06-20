@@ -1,3 +1,4 @@
 pandas 
-pandasai
 streamlit
+mysql-connector-python
+langchain_community
